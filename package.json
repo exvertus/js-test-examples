@@ -1,0 +1,28 @@
+{
+  "name": "js-test-examples",
+  "version": "0.0.1",
+  "description": "JS examples that are tested with Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exvertus/js-test-examples.git"
+  },
+  "keywords": [
+    "examples",
+    "jasmine",
+    "javascript",
+    "education"
+  ],
+  "author": "Tom Flanigan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exvertus/js-test-examples/issues"
+  },
+  "homepage": "https://github.com/exvertus/js-test-examples#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
